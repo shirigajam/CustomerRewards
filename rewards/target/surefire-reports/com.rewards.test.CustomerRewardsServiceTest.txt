@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.rewards.test.CustomerRewardsServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.181 s <<< FAILURE! - in com.rewards.test.CustomerRewardsServiceTest
+initializationError(com.rewards.test.CustomerRewardsServiceTest)  Time elapsed: 0.006 s  <<< ERROR!
+java.lang.Exception: No runnable methods
+
